@@ -83,7 +83,7 @@ company,ticker,industry,environment_score,social_score,governance_score,total_sc
 Siemens AG,SIE.DE,Industrials,61,54,72,62,2,yfinance,2025-04-13
 ```
 
-🎯 Key Goals
+## 🎯 Key Goals
 
 Demonstrate strategic and technical skills as a Data Engineer
 
@@ -95,7 +95,7 @@ Make the pipeline extensible, production-ready, and cloud-native
 
 Enable future SaaS product or enterprise-level PoC for ESG intelligence
 
-❗ License and Terms of Use
+##❗ License and Terms of Use
 This project is protected by a proprietary license.
 It is provided strictly for demonstration and educational purposes.
 
@@ -103,7 +103,7 @@ All rights reserved.
 Commercial use, redistribution, or code modification is not allowed without the author's explicit permission.
 Any unauthorized use of the contents or ideas in this repository is strictly prohibited.
 
-🤝 Contributions & Contact
+## 🤝 Contributions & Contact
 This is a public learning project.
 Feedback, issues, and ideas are welcome via GitHub issues.
 
