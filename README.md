@@ -95,7 +95,7 @@ Make the pipeline extensible, production-ready, and cloud-native
 
 Enable future SaaS product or enterprise-level PoC for ESG intelligence
 
-##❗ License and Terms of Use
+## ❗License and Terms of Use
 This project is protected by a proprietary license.
 It is provided strictly for demonstration and educational purposes.
 
