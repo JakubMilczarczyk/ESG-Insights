@@ -73,8 +73,10 @@ esg-insights/ ├── dags/ # Airflow DAGs ├── data/ │ ├── raw/ 
   "source": "yfinance",
   "retrieved_at": "2025-04-13"
 }
-data/samples/esg_sample.csv
 ```
+
+### `data/samples/esg_sample.csv`
+
 ```csv
 
 company,ticker,industry,environment_score,social_score,governance_score,total_score,controversy_level,source,retrieved_at
