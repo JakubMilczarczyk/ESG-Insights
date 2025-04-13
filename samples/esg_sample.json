@@ -1,0 +1,14 @@
+{
+    "company": "Siemens AG",
+    "ticker": "SIE.DE",
+    "industry": "Industrials",
+    "esg_score": {
+      "environment": 61,
+      "social": 54,
+      "governance": 72,
+      "total": 62
+    },
+    "controversy_level": 2,
+    "source": "yfinance",
+    "retrieved_at": "2025-04-13"
+  }

@@ -1,0 +1,2 @@
+company,ticker,industry,environment_score,social_score,governance_score,total_score,controversy_level,source,retrieved_at
+Siemens AG,SIE.DE,Industrials,61,54,72,62,2,yfinance,2025-04-13
