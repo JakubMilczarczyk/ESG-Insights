@@ -1,0 +1,47 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+env/
+*.log
+pip-log.txt
+
+# === VSCode ===
+.vscode/
+.history/
+
+# === Airflow ===
+airflow.cfg
+unittests.cfg
+logs/
+plugins/__pycache__/
+
+# === Docker ===
+*.dockerfile
+docker-compose.override.yml
+
+# === Jupyter / Notebooks ===
+.ipynb_checkpoints/
+*.ipynb~
+
+# === Systemowe ===
+.DS_Store
+Thumbs.db
+
+# === Secrets / Credentials ===
+*.pem
+*.key
+*.crt
+secrets.json
+credentials.json
+.env.*
+
+# === Spark ===
+.metastore_db/
+derby.log
